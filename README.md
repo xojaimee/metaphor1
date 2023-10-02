@@ -17,3 +17,5 @@ in one place.
 If I had more time to work on the project, I would add button selections for the most popular job boards, and include the field 
 for users to add additional URLs. When testing out the API, I noticed job listings from Indeed were 9 months old, but I would ideally 
 create this search to populate job listings within the past 24 hours to up to one week old as a default value. 
+
+![Screen Shot 2023-10-02 at 4 31 09 PM](https://github.com/xojaimee/metaphor1/assets/129997353/1dd860e2-a91d-49e1-a8c5-54f5869d93e3)
